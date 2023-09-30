@@ -26,6 +26,7 @@ Works:<br />
 -HDMI/DVI+Audio<br />
 -Audio Out+Mic in<br />
 -Power management/Turbo Boost/C-state (idle)<br />
+-All SATA and M.2 NVMe Ports <br />
 <br />
 Not working: <br />
 -1660 Ti (disabled  with dsdt)<br />
