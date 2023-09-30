@@ -26,12 +26,12 @@ Works:<br />
 -HDMI/DVI+Audio<br />
 -Audio Out+Mic in<br />
 -Power management/Turbo Boost/C-state (idle)<br />
-
-Not working:<br />
+<br />
+Not working: <br />
 -1660 Ti (disabled  with dsdt)<br />
 -Front USB 3.0 (XHCI limitation on macOS)<br />
-
-BIOS settings :<br />
+<br />
+BIOS settings : <br />
 -XHCI hand off     : on<br />
 -VT-d              : off<br />
 -Above 4G decoding : on<br />
