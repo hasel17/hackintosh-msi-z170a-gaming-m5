@@ -20,27 +20,27 @@ OS Tested<br />
 -macOS 13.0 Ventura<br />
 
 Works:
--QE/CI UHD 630
--Sleep/Shutdown/Restart
--LAN+WiFi+Bluetooth
--HDMI/DVI+Audio
--Audio Out+Mic in
--Power management/Turbo Boost/C-state (idle)
+-QE/CI UHD 630<br />
+-Sleep/Shutdown/Restart<br />
+-LAN+WiFi+Bluetooth<br />
+-HDMI/DVI+Audio<br />
+-Audio Out+Mic in<br />
+-Power management/Turbo Boost/C-state (idle)<br />
 
 Not working:
--1660 Ti (disabled  with dsdt)
--Front USB 3.0 (XHCI limitation on macOS)
+-1660 Ti (disabled  with dsdt)<br />
+-Front USB 3.0 (XHCI limitation on macOS)<br />
 
 BIOS settings :
--XHCI hand off     : on
--VT-d              : off
--Above 4G decoding : on
--DVMT size         : 128MB
--Initiate Graphic  : IGD
--CGF Lock          : off
--Windows 10 WHQL   : on
--Windows 7 support : off
--fastboot          : off
--superio serial    : off
--SATA mode         : AHCI
--m.2 genie         : off
+-XHCI hand off     : on<br />
+-VT-d              : off<br />
+-Above 4G decoding : on<br />
+-DVMT size         : 128MB<br />
+-Initiate Graphic  : IGD<br />
+-CGF Lock          : off<br />
+-Windows 10 WHQL   : on<br />
+-Windows 7 support : off<br />
+-fastboot          : off<br />
+-superio serial    : off<br />
+-SATA mode         : AHCI<br />
+-m.2 genie         : off<br />
