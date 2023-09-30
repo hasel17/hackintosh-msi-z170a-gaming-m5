@@ -3,16 +3,27 @@ OpenCore 0.9.5 Sonoma EFI for MSI Z170A Gaming M5
 
 Specs
 -Intel Core i7-8700
+
 -UHD 630
+
 -NVIDIA GeForce GTX 1660 Ti
+
 -16GB DDR4-3000
+
 -MSI Z170A Gaming M5 modded with CoffeeTime
+
 -128GB SATA SSD
+
 -1TB NVMe SSD
+
 -TP-Link WN725N V2 USB WiFi
+
 -Generic USB Bluetooth 5.0 CSR
+
 -Killer E2400 LAN
+
 -AsMedia USB 3.1 Controller
+
 
 OS Tested
 -macOS 14.0 Sonoma
